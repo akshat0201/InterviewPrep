@@ -6,27 +6,17 @@ This website stores questions which are organised by topics. Users can bookmark 
    
 ## Setting up Environment for running this project
   * [Install nodejs](https://nodejs.org/en/download/package-manager/#windows)
-  * set up  [Mongodb Atlas](https://www.knowi.com/blog/getting-started-with-mongodb-atlas-overview-and-tutorial/) / [Install and configure MongoDB](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
+  * Set up [Mongodb Atlas](https://www.knowi.com/blog/getting-started-with-mongodb-atlas-overview-and-tutorial/) / [Install and configure MongoDB](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
 
 
-#### Clone this repository and open in text editor ( VScode prefered )  
+#### Clone this repository and open in text editor ( VS Code preferred )  
  
- ##### Open Command Prompt and check installation of Nodejs and NPM
-    
-   > node -v
-   >  
-     v12.18.4 
-     
-   
-   > npm -v
-   > 
-     6.14.6
-  
   #### Install Dependencies 
     npm install
-this will install all required packages written in package.json file.
+    
+This will install all required packages written in the package.json file.
 
-then run
+Then run
 
     node server.js
     
