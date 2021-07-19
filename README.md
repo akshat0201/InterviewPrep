@@ -1,9 +1,8 @@
-# [**InterviewTracker**](https://interview-tracker-durgesh-monu.herokuapp.com/)
+# **Interview Preparation Portal**
 
-Interview Tracker - Project by Coding Club IIT Guwahati.
-An application which store question categorized by topics and also  you can read interview experiences and important questions ahead of time so you can prepare with confidence. If you have gone through a recent interview, You can share it with us.
+This website stores questions which are organised by topics. Users can bookmark important questions and read about the interview experiences of their seniors. If a user has gone through a recent interview, their experience can also be submitted and updated on the website.
 
-   It is build with [**Nodejs**](https://nodejs.org), [**Express**](https://expressjs.com) and [**MongoDB**](https://www.mongodb.com/) used as database.
+   It is built with [**Nodejs**](https://nodejs.org), [**Express**](https://expressjs.com) and [**MongoDB**](https://www.mongodb.com/) used as database.
    
 ## Setting up Environment for running this project
   * [Install nodejs](https://nodejs.org/en/download/package-manager/#windows)
