@@ -10,7 +10,7 @@ An application which store question categorized by topics and also  you can read
   * set up  [Mongodb Atlas](https://www.knowi.com/blog/getting-started-with-mongodb-atlas-overview-and-tutorial/) / [Install and configure MongoDB](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
 
 
-#### Clone this repository and open in text editor ( vs code prefered )  
+#### Clone this repository and open in text editor ( VScode prefered )  
  
  ##### Open Command Prompt and check installation of Nodejs and NPM
     
