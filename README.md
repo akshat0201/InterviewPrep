@@ -2,14 +2,14 @@
 
 This website stores questions which are organised by topics. Users can bookmark important questions and read about the interview experiences of their seniors. If a user has gone through a recent interview, their experience can also be submitted and updated on the website.
 
-   It is built with [**Nodejs**](https://nodejs.org), [**Express**](https://expressjs.com) and [**MongoDB**](https://www.mongodb.com/) used as database.
+   It is built with [**Node.js**](https://nodejs.org), [**Express.js**](https://expressjs.com) and [**MongoDB**](https://www.mongodb.com/) used as database.
    
 ## Setting up Environment for running this project
-  * [Install nodejs](https://nodejs.org/en/download/package-manager/#windows)
-  * Set up [Mongodb Atlas](https://www.knowi.com/blog/getting-started-with-mongodb-atlas-overview-and-tutorial/) / [Install and configure MongoDB](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
+  * [Install Node.js](https://nodejs.org/en/download/package-manager/#windows)
+  * Set up [Mongodb Atlas](https://www.knowi.com/blog/getting-started-with-mongodb-atlas-overview-and-tutorial/) / [Install and Configure MongoDB](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
 
 
-#### Clone this repository and open in text editor ( VS Code preferred )  
+#### Clone this repository and open in text editor of choice
  
   #### Install Dependencies 
     npm install
@@ -21,7 +21,7 @@ Then run
     node server.js
     
  #### Now go to your browser and load http://localhost:80/ 
- ##### That’s it, You have successfully run this project on your machine
+ ##### That’s it! The website should now successfully be running on your machine
  
  ## Home Page 
  ![home page-1](https://github.com/durgeshmeena/InterviewTracker/blob/main/uploads/readme-images/1.PNG)
