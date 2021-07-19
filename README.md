@@ -4,7 +4,7 @@ This website stores questions which are organised by topics. Users can bookmark 
 
    It is built with [**Node.js**](https://nodejs.org), [**Express.js**](https://expressjs.com) and [**MongoDB**](https://www.mongodb.com/) used as database.
    
-## Setting up Environment for running this project
+## Setting up to run this project locally
   * [Install Node.js](https://nodejs.org/en/download/package-manager/#windows)
   * Set up [Mongodb Atlas](https://www.knowi.com/blog/getting-started-with-mongodb-atlas-overview-and-tutorial/) / [Install and Configure MongoDB](https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514)
 
@@ -22,6 +22,8 @@ Then run
     
  ##### Now go to your browser and load http://localhost:80/ 
  #### That’s it! The website should now successfully be running on your machine
+ 
+ <br />
  
  ## Home Page 
  ![home page-1](https://github.com/durgeshmeena/InterviewTracker/blob/main/uploads/readme-images/1.PNG)
