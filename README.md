@@ -20,8 +20,8 @@ Then run
 
     node server.js
     
- #### Now go to your browser and load http://localhost:80/ 
- ##### That’s it! The website should now successfully be running on your machine
+ ##### Now go to your browser and load http://localhost:80/ 
+ #### That’s it! The website should now successfully be running on your machine
  
  ## Home Page 
  ![home page-1](https://github.com/durgeshmeena/InterviewTracker/blob/main/uploads/readme-images/1.PNG)
